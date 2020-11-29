@@ -12,7 +12,6 @@ Esta é a Primeira versão -- V.1 -- Usuarios  é ultizada para o cadastro de us
 - [Tecnologias de Desenvolvimento](#-Tecnologias-de-Desenvolvimento)
 - [Como Executar O Projeto](#-Como-Executar-O-Projeto)
 - [Licença](#-Licença)
-- [Status](#-Status)
 
 ---
 
