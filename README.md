@@ -8,10 +8,10 @@ Esta é a Primeira versão -- V.1 -- Usuarios  é ultizada para o cadastro de us
 
 ## 📋 Índice
 
-- [Sobre](#-Sobre-o-Projeto)
-- [Tecnologias de Desenvolvimento](#-Tecnologias-de-Desenvolvimento)
-- [Como Executar O Projeto](#-Como-Executar-O-Projeto)
-- [Licença](#-Licença)
+- [Sobre] (#-Sobre-o-Projeto)
+- [Tecnologias de Desenvolvimento] (#-Tecnologias-de-Desenvolvimento)
+- [Como Executar O Projeto] (#-Como-Executar-O-Projeto)
+- [Licença] (#-Licença)
 
 ---
 
@@ -49,6 +49,8 @@ O projeto está desenvolvido utilizando as seguintes tecnologias:
 2 - Execute o programa e ira realizar automaticamente a criacao das tabelas {usuario} e atualizacao do banco de dado de classe de usuario, se preferir execute as classes "TestaCadastraUsuario" & "TestaCriaTabelaUsuario";
 
 3 - Logo apos é so abrir o endereco  `http://localhost:8080/usuarios/` em seu navegador que verá a tela de cadastro;
+
+4 - Para executar o teste automatizado, é necessário o projeto estar rodando, e executar a classe "CadastraUsuarioTest". :)
 
 
 
